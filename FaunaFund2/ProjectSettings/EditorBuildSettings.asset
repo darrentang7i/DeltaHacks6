@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Aquatic Life.unity
+    guid: 86e8a7d5a5d99774db2d0c255d4032ff
+  - enabled: 1
+    path: Assets/Scenes/Selection_Screen.unity
+    guid: 51baa4273507b08448262423793e2c1f
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Loading Page.unity
+    guid: 5dff05dec6b9165438428b18c1769cfe
+  - enabled: 1
+    path: Assets/Scenes/Camera.unity
+    guid: 2cbda6358fce77f45b43002a4d4e15d1
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: ec094733ec15dbd4ab913685e4de0aa0
+  m_configObjects: {}
